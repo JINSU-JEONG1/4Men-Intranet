@@ -37,12 +37,14 @@
 
 
 ## 📌 개발환경
+    Development Language :  JAVA 11 , HTML5, CSS3, JavaScript
+    Framework : MyBatis 3.3.0, Spring 5.3.13
+    Build Tool : Maven 
+    Template Engine : thymeleaf
+    Library : jQuery
     Server : Apache Tomcat 8.5
     Database : Oracle 18c
     Development Tool :  SpringBoot Tool Suite  4.11.1
-    Framework : MyBatis 3.3.0, Spring 5.3.13
-    Build Tool : Maven 
-    Development Language :  JAVA 11 , HTML5, CSS3, JavaScript, jQuery, thymeleaf, Ajax
     Shape management : Github 
     Open API : 다음 우편검색, FullCalender
     Design tool : Bootstrap5
