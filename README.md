@@ -259,7 +259,7 @@
 - MVC 패턴에 기반한 웹 어플리케이션 개발 
 - Transaction 처리로 데이터의 무결성 보장
 - AOP를 이용한 로그처리
-- Interceptor를 이용한 페이지 접근 권한 설정
+- Spring Security를 이용한 페이지 접근 권한 설정
 - Bcrypt를 이용한 비밀번호 암호화 처리
 - DI (Dependency Injection) 패턴을 적용하여 불필요한 의존관계 해소 
 - annotation 사용으로 설정 파일을 간결화
