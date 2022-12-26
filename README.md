@@ -84,6 +84,9 @@
 - 부서별 채팅방 사용가능
 
 
+## 📌 역할 분배
+!(https://user-images.githubusercontent.com/104358180/209536990-13fcc3ee-754a-447e-a13d-8f12f7b15893.PNG)
+!(https://user-images.githubusercontent.com/104358180/209536997-37915c67-df09-4d97-bb45-27fd2f8347d4.PNG)
 
 
 ## 📌 폴더 구조
